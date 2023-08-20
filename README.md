@@ -1,12 +1,19 @@
 The Real Estate Manager is a comprehensive Application that provides a range of features: 
 1-Authentication System
+
 2-Profile Management
+
 3-CRUD operations
+
 4-Comment system
 5-like System
+
 6-PDF generation
-7-Appointment sheduling system                
+
+7-Appointment sheduling system 
+              
 8-Confirmation via email.
+
 DEMO:https://www.youtube.com/watch?v=URVBppV7nkg
 
 <img width="946" alt="Capture d’écran 2023-06-02 181439" src="https://github.com/safouat/Real-Estate-Sales-Application-LARAVEL/assets/120058233/f61a0bac-323d-4a60-82e9-df2079d03b44">
