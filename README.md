@@ -1,21 +1,11 @@
 The Real Estate Manager is a comprehensive Application that provides a range of features: 
 1-Authentication System
-
 2-Profile Management
-
-
 3-CRUD operations
- 
-
 4-Comment system
-
 5-like System
-
-
 6-PDF generation
-
 7-Appointment sheduling system                
-
 8-Confirmation via email.
 DEMO:https://www.youtube.com/watch?v=URVBppV7nkg
 
