@@ -7,6 +7,7 @@ The Real Estate Manager is a comprehensive Application that provides a range of 
 3-CRUD operations
 
 4-Comment system
+
 5-like System
 
 6-PDF generation
